@@ -1,0 +1,2 @@
+# DjangoDiscord
+Discord like app
